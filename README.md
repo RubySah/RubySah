@@ -24,13 +24,15 @@ Currently focused on developing practical AI systems while strengthening my unde
 
 **Languages:** `Python` `C` `SQL`
 
-**AI / ML / DL:** `PyTorch` `Scikit-learn` `XGBoost` `LightGBM` `TensorFlow` `Keras` `Transformers`
+**AI / ML / DL:** `PyTorch` `Scikit-learn` `TensorFlow` `Keras` `Transformers`
 
 **Generative AI & LLMs:** `LLM Integration` `Prompt Engineering` `T5` `LLM-powered Applications`
 
 **Computer Vision:** `OpenCV` `YOLOv8` `CLIP` `VGG16` `Image Processing` `Video Understanding`
 
 **Data Science & Analytics:** `NumPy` `Pandas` `Matplotlib` `Feature Engineering` `SHAP`
+
+**Frontend & UI Development:** `React` `HTML` `CSS` `JavaScript` `Streamlit`
 
 **Backend & Development:** `FastAPI` `Streamlit` `REST APIs` `Pydantic`
 
