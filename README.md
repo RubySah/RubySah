@@ -38,7 +38,7 @@ Currently focused on developing practical AI systems while strengthening my unde
 
 **Databases:** `PostgreSQL` `SQL`
 
-**MLOps & Tools:** `MLflow` `Docker` `Git` `GitHub` `Linux` `WSL`
+**MLOps & Tools:** `MLflow` `Docker` `Git` `GitHub`
 
 ---
 
